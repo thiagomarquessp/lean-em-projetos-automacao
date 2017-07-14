@@ -8,5 +8,5 @@ Só para deixar claro, eu acredito que automação não tenha que haver um proje
 
 Vou dividir em algumas etapas:
 
-1. [Por que Lean?](WIP)
+1. [Por que Lean?](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/por-que-lean.md)
 2. [Evitando e eliminando o desperdício](WIP)
