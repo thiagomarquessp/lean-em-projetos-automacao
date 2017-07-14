@@ -12,18 +12,21 @@ Fazem quase 12 anos que trabalho com testes e qualidade de Software e ainda escu
 
 # Conta de padaria baseado em testes no fim
 
+```ruby
 |Equipe                     | Valor/mês | Features/mês |
 |10 pessoas (PO, Devs e QA) | R$40K     | 2            |
-
+```
 Conta bem besta ta ...
 
 Considerando esse cenário, estamos dizendo que cada feature desenvolvida tem o valor de R$20K e por isso entregamos 2 features por mês ou uma feature por sprint.
 
 Agora imagina se volta uma feature que acabamos de desenvolver com bug crítico de produção. Então esse bug será corrigido, mas digamos que na tal fase de testes encontramos outros e outros e vai e volta e levam duas semanas também para ser entregue um bug que esteve em produção. Vamos olhar os valores:
 
+```ruby
 | Valor da Feature | Valor do Bug                                                        |
 | R$20K/mês        | R$0 quando não tem bug                                              |
 | R$20K/mês        | R$20K quando volta de produção e levamos duas semanas para entregar |
+```
 
 Estamos dizendo que nesse caso, uma feature que hoje vale R$20K está valendo R$40K porque teve um bug e levamos mais duas semanas pra corrigir certo?
 
