@@ -8,7 +8,5 @@ Só para deixar claro, eu acredito que automação não tenha que haver um proje
 
 Vou dividir em algumas etapas:
 
-1. [Entendendo um pouco sobre o LEAN](WIP)
-2. [Evitando e eliminando o desperdício][WIP]
-3. [Qualidade em todas as etapas do processo](WIP)
-4. [Gerando ambiente de aprendizado contínuo](WIP)
+1. [Por que Lean?](WIP)
+2. [Evitando e eliminando o desperdício](WIP)
