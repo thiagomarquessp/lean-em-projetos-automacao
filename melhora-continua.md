@@ -9,3 +9,7 @@ Um dos pilares do Lean é justamente o conceito de melhora contínua e eu gosto 
 Partindo do princípio que sempre estaremos aprendendo, não pense em fazer da forma mais linda do mundo um cenário automatizado. O que eu tenho aplicado no meu dia a dia é a cada 7 dias de código, 1 dia é dedicado para pagar os débitos técnicos gerados e a cada débito técnico pago, eu aprendo uma nova maneira de fazer as mesmas coisas e o melhor, deixar meu código com menos linhas e mais performático e escalável.
 
 Atualmente estou com um estagiário muito inteligente que está estudando automação e linguagem ruby e javascript e ele terminou o primeiro ciclo de 7 dias, ou seja, no 8 dia vai pagar os débitos técnicos, e juntos vamos fazer **pair** para que possamos aprender juntos as melhores práticas.
+
+# Usar um sistema puxado de tarefas
+
+Dado que o projeto exista, fatalmente histórias ou cards são criados para que seja então estimado, o melhor método que eu trabalhei para projetos desse tipo foi com [Kanban](https://pt.wikipedia.org/wiki/Kanban).
