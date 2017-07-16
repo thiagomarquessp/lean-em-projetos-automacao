@@ -6,4 +6,4 @@ Exatamente isso que **leu** e vou te falar que não automatizar o legado é a fo
 
 Essa é uma forma de chegar aos poucos no legado, automatizando os bugs que chegam de produção de alguma feature legada, ou mesmo uma feature nova de algum cenário que não conseguimos pensar, assim como o time não conseguiu prever.
 
-Agora que entendemos porque não devemos automatizar o legado, vamos entender um pouco sobre [melhora contínua](wip) no nosso projeto de automação.
+Agora que entendemos porque não devemos automatizar o legado, vamos entender um pouco sobre [melhora contínua](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/melhora-continua.md) no nosso projeto de automação.
