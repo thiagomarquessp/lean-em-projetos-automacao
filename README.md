@@ -10,3 +10,5 @@ Vou dividir em algumas etapas:
 
 1. [Por que Lean?](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/por-que-lean.md)
 2. [Evitando e eliminando o desperdício](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/eliminar-evitar-desperdicios.md)
+3. [Melhora Contínua](wip)
+4. [Aprendizado Contínuo](WIP)
