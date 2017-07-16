@@ -40,4 +40,4 @@ Essa é uma forma de eliminar desperdício, pois dado que não tivemos condiçã
 
 ## Mudança de mindset
 
-Ter uma mudança de mindset muitas vezes não é fácil, mas dia após dia, gerando valor as coisas vão acontecendo, então sugiro que após as dicas acima serem feitas, um próximo passo será trabalhar com [antecipação de problemas.](WIP)
+Ter uma mudança de mindset muitas vezes não é fácil, mas dia após dia, gerando valor as coisas vão acontecendo, então sugiro que após as dicas acima serem feitas, um próximo passo será trabalhar com [antecipação de problemas.](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/antecipar-problemas.md)
