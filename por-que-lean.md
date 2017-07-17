@@ -46,4 +46,4 @@ Algumas empresas tem a mania de eleger um "projeto de automação de testes", o 
 
 Vamos ver tópico a tópico:
 
-Primeiro vamos ver o que eu mais gosto, de [evitar e eliminar desperdícios](WIP)
+Primeiro vamos ver o que eu mais gosto, de [evitar e eliminar desperdícios](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/eliminar-evitar-desperdicios.md)
