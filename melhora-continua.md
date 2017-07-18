@@ -85,6 +85,6 @@ Mas isso não é o problema. O problema é não pagar. E pagar débitos técnico
 
 No meu caso, a cada 7 dias de código, 1 é dedicado para pagar todos os débitos técnicos gerados nesse período. E só pego uma nova feature depois que eu certifico que paguei os débitos. Em pair vai mais rápido pode ter certeza.
 
-# E agora ... (aquela revisao rsr)
+# E agora ...
 
 E agora devemos [respeitar sempre o próximo](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/respeito.md).
