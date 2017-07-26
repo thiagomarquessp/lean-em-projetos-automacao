@@ -88,3 +88,5 @@ No meu caso, a cada 7 dias de código, 1 é dedicado para pagar todos os débito
 # E agora ...
 
 E agora devemos [respeitar sempre o próximo](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/respeito.md).
+
+[Home](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/README.md)
