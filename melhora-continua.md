@@ -84,9 +84,3 @@ Pensem que sempre podemos melhorar, e com certeza, entregamos automações com m
 Mas isso não é o problema. O problema é não pagar. E pagar débitos técnicos deve ser um hábito e esse hábito quem deve definir é o time.
 
 No meu caso, a cada 7 dias de código, 1 é dedicado para pagar todos os débitos técnicos gerados nesse período. E só pego uma nova feature depois que eu certifico que paguei os débitos. Em pair vai mais rápido pode ter certeza.
-
-# E agora ...
-
-E agora devemos [respeitar sempre o próximo](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/respeito.md).
-
-[Home](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/README.md)
