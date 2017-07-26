@@ -22,4 +22,8 @@ No caso do projeto de automação, mensurar as tarefas que são feitas é uma fo
 
 Focar 101% do tempo em código, todos os dias, todas as horas tem suas consequências e isso quer dizer que aos poucos alguns maus hábitos vão surgindo, porque aquele trabalho fica repetitivo e naturalmente vamos nos estagnando e pensando em como resolver um problema desse tipo, resolvi aplicar aqui no time que a cada 7 dias de trabalho, pelo menos 1/2 dia dedicado ao estudo, seja ele técnico ou não e no fim desse meio dia possamos conversar sobre e ter mais aprendizado. Vem dando muito certo, porque estimula o estudo e também tira aquela pressão de ficar vendo o vim ou o atom, no meu caso (foram três vezes) pude aperfeiçoar meus conhecimentos em Lean, estudei sobre Neuro Marketing e um pouco de francês (esse é contínuo), mas tem pessoas que se aperfeiçoaram em TDD, outros em Marketing Digital, outros em metodologias ágeis e a lista é imensa e para aqueles que pensam que isso prejudicou as métricas, estão enganados, tivemos uma leve melhorada em 2% das tarefas que saem do To Do até Done.
 
-Existem N formas de de aplicar o aprendizado contínuo nas empresas, e isso é libertador, saber que todo o time busca o mesmo objetivo. E se aprendemos, temos que [melhorar continuamente.](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/melhora-continua.md)
+# E agora ...
+
+E agora devemos [respeitar sempre o próximo](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/respeito.md).
+
+[Home](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/README.md)
