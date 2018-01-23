@@ -6,6 +6,8 @@ Dessa vez vou falar um pouco sobre Processo Lean de Desenvolvimento de Software 
 
 Só para deixar claro, eu acredito que automação não tenha que haver um projeto, porque eu parto do princípio que essa disciplina deve ser cultural, tanto na nossa vida como QAs, como para os desenvolvedores. Mas dado que ainda algumas empresas adotam essa prática de ter um projeto específico de automação de testes, como na empresa que trabalho. Então para não ter que me estressar muito com a mudança de mindset no processo horse, decidi aplicar conceitos **LEAN** de Desenvolvimento de Software nesse projeto de automação.
 
+Esse material conceitualmente pode ser aplicado em qualquer contexto, pois as práticas **LEAN** não se aplicam somente a automação de testes.
+
 Vou dividir em algumas etapas:
 
 1. [Por que Lean?](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/por-que-lean.md)
