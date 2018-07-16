@@ -4,7 +4,8 @@ Bom, quando possuímos um cenário onde a empresa opta por ter um projeto de aut
 
 ## Reunir os QAs + Gestor + Dev para uma retrospectiva
 
-Quando sabemos da existência desse projeto, uma ação interessante é reunir todos os QAs, porque todos vão ter participação (veremos isso) e o ideal é que o stakeholder, com pelo menos alguma pessoa que possa ser o porta voz do time de dev (tech lead é uma boa) possa participar, porque será nessa reunião que as expectativas **DEVEM** ser colocadas a mesa para que as ações que iremos tomar possa ser de conhecimento de todos. Nesse caso, deixar claro qual é o objetivo de se ter testes automatizados, se a equipe de desenvolvimento vai conseguir ajudar a tirar algum impedimento técnico relacionado a linguagem de programação, caso venha a ter, e por ai vai. Nessa retrospectiva, vamos alinhar alguns pontos:
+Quando sabemos da existência desse projeto, uma ação interessante é reunir todos os QAs, porque todos vão ter participação (veremos isso) e o ideal é que o stakeholder, com pelo menos alguma pessoa que possa ser o porta voz do time de dev (tech lead é uma boa) possa participar, porque será nessa reunião que as expectativas **DEVEM** ser colocadas a mesa para que as ações que iremos tomar possam ser de conhecimento de todos. Primeira expectativa, deixar claro o objetivo se ter testes automatizados, assim como deixar claro que todos que vão participar não são especialistas em automação de testes e que uma hora ou outa, a equipe de desenvolvimento vai ser "parada" para remover algum impedimento técnico com relação a linguagem em questão. 
+Nessa retrospectiva, vamos alinhar alguns pontos:
 
 1. _**Fazer uma triagem do que pode estar errado**_
 
