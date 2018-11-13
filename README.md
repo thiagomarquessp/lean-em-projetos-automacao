@@ -12,5 +12,7 @@ Vou dividir em algumas etapas:
 
 1. [Por que Lean?](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/por-que-lean.md)
 2. [Evitando e eliminando o desperdício](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/eliminar-evitar-desperdicios.md)
-3. [Melhora Contínua](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/melhora-continua.md)
-4. [Aprendizado Contínuo](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/aprendizado-continuo.md)
+3. [Antecipando Problemas](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/antecipar-problemas.md)
+4. [Não Automatize o Legado!](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/nao-automatizar-o-legado.md)
+5. [Melhora Contínua](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/melhora-continua.md)
+6. [Aprendizado Contínuo](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/aprendizado-continuo.md)
