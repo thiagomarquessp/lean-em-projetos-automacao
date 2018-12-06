@@ -1,6 +1,6 @@
 # Melhora contínua no nosso projeto de automação de testes
 
-Um dos pilares do Lean é justamente o conceito de melhora contínua e eu gosto muito desse tema, porque eu não gosto com o fator "vou contratar um Messias para o time". Eu acredito que um time cheio de estrelas é prejudicial a saúde e um câncer nos times, porque gera expectativa, gera ciúmes, e cá entre nós, controlar o ego dessas "celebridades" é algo extremamente difícil. O ideal é ter um time o mais diversificado possível, e voltando pro nosso projeto, ter uma pessoa mais SR com skill de automação do que uma corporação de Espscialistas é o melhor dos mundos.
+Um dos pilares do Lean é justamente o conceito de melhora contínua e dado que temos um time, claramente esse time em algum momento vai precisar melhorar, pois não tem como manter o nível máximo de excelência todos os dias e quando temos o alerta da melhora contínua ligado, conseguimos sempre manter o nível de excelência alto. 
 
 # Faça -> Aprenda com os erros -> Melhore
 
@@ -82,5 +82,15 @@ Pensem que sempre podemos melhorar, e com certeza, entregamos automações com m
 Mas isso não é o problema. O problema é não pagar. E pagar débitos técnicos deve ser um hábito e esse hábito quem deve definir é o time.
 
 No meu caso, a cada 7 dias de código, 1 é dedicado para pagar todos os débitos técnicos gerados nesse período. E só pego uma nova feature depois que eu certifico que paguei os débitos. Em pair vai mais rápido pode ter certeza.
+
+## Colha sempre métricas
+
+Um tema delicado, mas necessário e nesses casos coloco sempre escrito em algum papel visível quando chego na empresa: **"Se eu não consigo medir, não consigo controlar."** mas muitas pessoas tem uma idéia errada ou uma interpretação "maldosa" com o termo **controlar** e queria dizer que nesse contexto não é para açoitar ninguém ou ver o nível de produtividade de um time ou de uma pessoa, ou ficar com os chicotes sempre a espera para estalar. Nesse contexto iniciar, é importante ter métricas principalmente para sabermos onde estamos falhando e com isso melhorar um pouco mais.
+
+É simples eu organizar uma retrospectiva sem dados e colocar apenas sentimentos de positivo e negativo em post it e tentar achar soluções para que os negativos sejam sanados, mas quantos de nós na próxima retrospectiva trazemos o **como** resolvemos os negativos daquela última? Agora, quando eu trago algo, positivo ou não com base matemática e estatística, me faz saber exatamente onde atacar para melhorar e usando o mesmo critério, trazer na próxima retrospectiva os números novamente para termos certeza que foram benéficos ou não. E quem entre nós tem coragem de contestar a matemática?
+
+Geralmente o trabalho é delicado, mas podemos começar conosco mesmo, por exemplo, colhendo métricas de bugs em produção x iteração e aos poucos, com a automação, ver se essa taxa de bugs cai ou sobe. Em princípio, quando temos uma quantidade de itens automatizados, não temos que nos preocupar em realizar essas rotinas novamente de forma manual, o que nos faz ter tempo para pensarmos nas novas features e como promover qualidade nelas.
+
+Agora o mais importante, apresente essas métricas para que todos possam dar valor e indo além, colha métricas em cima do seu trabalho de automação, tire métricas como Lead Time, Cycle Time, Throughput para dentre outras coisas, dar **previsibilidade** do seu trabalho e assim orientar a todos os stakeholders como está o andamento da automação e para onde vai e **sempre** teremos a matemática a nosso favor quando dermos uma previsão de quando as coisas possam estar prontas.
 
 E depois dessa maratona, temos que [aprender continuamente.](https://github.com/thiagomarquessp/lean-em-projetos-automacao/blob/master/aprendizado-continuo.md)
